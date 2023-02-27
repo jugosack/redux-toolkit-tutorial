@@ -1,3 +1,11 @@
+<a name="readme-top"></a>
+
+<!-- TABLE OF CONTENTS -->
+
+<div align="center">
+<img src="./src/assets/images/bag.png" width="600px" height="400px" alt="screenshot">
+</div>
+
 # Redux Toolkit
 
 #### React Course
